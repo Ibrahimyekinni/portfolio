@@ -1,5 +1,7 @@
 # Portfolio
 
+**Live at [ibrahimyekinni.github.io/portfolio](https://ibrahimyekinni.github.io/portfolio/)**
+
 A small personal portfolio page, built for IFT 302: Web Application Development,
 Department of Computer Science & AI, University of Ibadan.
 
@@ -30,6 +32,6 @@ No frameworks and no build step — three files and an image.
 | `script.js` | Theme toggle, typewriter, progress bar, scroll effects |
 | `images/` | Profile photo |
 
-## Running it
+## Running it locally
 
 Open `index.html` in any browser. There is nothing to install.
